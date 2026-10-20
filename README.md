@@ -24,4 +24,4 @@
 `pic1-master`, `pic1-client`, `pic1-server` — первая схема.
 `star-master` (вместо master), `client`, `server` — итоговая схема.
 
-Все ветки видно на графе.
+Все ветки видно на графе в Insights - Network.
